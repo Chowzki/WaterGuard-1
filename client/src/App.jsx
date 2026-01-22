@@ -24,7 +24,7 @@ import routeTitleMap from './utils/routeTitleMap';
 const API_BASE_URL = import.meta.env.VITE_API_BASE_URL;
 
 // =================================================================================
-// APP COMPONENT
+// APP COMPONENTS
 // =================================================================================
 function App() {
     const location = useLocation();
